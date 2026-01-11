@@ -1,7 +1,7 @@
 ## Olá! Eu sou Matheus Oliveira 121
 
 - 📖 Estudando JavaScript, Html, Css, React, Vue, Angular, jQuery, Bootstrap
-- 💬 Contate-me no email: Matheusvbv12@gmail.com 
+- 💬 Contate-me no email: Matheushol28@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
